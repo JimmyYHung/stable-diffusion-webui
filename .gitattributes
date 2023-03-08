@@ -1,1 +1,0 @@
-VAE/vae-ft-mse-840000-ema-pruned.safetensors filter=lfs diff=lfs merge=lfs -text
